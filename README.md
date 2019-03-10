@@ -3,12 +3,11 @@
 # Badges
 You earn badges by solving challenges on the various practice tracks on [our](https://www.hackerrank.com) site. If you solve a challenge in an official HackerRank contest, you will earn points towards your progress once the challenge is added to the practice site. The badges you earn will be added to your profile, and will be visible for other users.
 
-## PROBLEM SOLVING
-| Problem         | Star | Points | Rank   |
-|-----------------|------|--------|--------|
-| Algorithms      | *    | 31/100 | 946899 |
-| Data Structures |      |        |        |
-| Mathematics     |      |        |        |
+## ANALYTICAL SKILL
+| Field                        | Star | Points | Rank   |
+|------------------------------|------|--------|--------|
+| Algorithms & Data Structures | *    | 31/100 | 946899 |
+| Mathematics                  |      |        |        |
 
 ## LANGUAGE PROFICIENCY
 | Language               | Star | Points  | Rank   |
@@ -17,9 +16,9 @@ You earn badges by solving challenges on the various practice tracks on [our](ht
 | Java                   |      |         |        |
 | C                      |      |         |        |
 | C++                    |      |         |        |
-| Ruby                   |      |         |        |
-| Functional Programming |      |         |        |
 | Linux Shell            |      |         |        |
+| Functional Programming |      |         |        |
+| Ruby                   |      |         |        |
 
 ## SPECIALIZED SKILLS
 | Skill                   | Star | Points | Rank |
@@ -28,8 +27,8 @@ You earn badges by solving challenges on the various practice tracks on [our](ht
 | SQL                     |      |        |      |
 | Databases               |      |        |      |
 | Distributed Systems     |      |        |      |
-| Regex                   |      |        |      |
 | Security                |      |        |      |
+| Regex                   |      |        |      |
 
 ## TUTORIALS
 | Title                                    | Star | Points | Rank |
