@@ -1,7 +1,7 @@
 <img src="README-src/HR-Logo-Main.png" alt="ZHAW" width="250"/>
 
 # Badges
-You earn badges by solving challenges on the various practice tracks on [our](https://www.hackerrank.com) site. If you solve a challenge in an official HackerRank contest, you will earn points towards your progress once the challenge is added to the practice site. The badges you earn will be added to your profile, and will be visible for other users.
+You earn badges by solving challenges on the various practice tracks on [hackerrank.com](https://www.hackerrank.com). If you solve a challenge in an official HackerRank contest, you will earn points towards your progress once the challenge is added to the practice site. The badges you earn will be added to your profile, and will be visible for other users.
 
 ## ANALYTICAL SKILL
 | Field                        | Star | Points | Rank   |
