@@ -24,7 +24,7 @@ You earn badges by solving challenges on the various practice tracks on [hackerr
 | Skill                   | Star | Points | Rank |
 |-------------------------|------|--------|------|
 | Artificial Intelligence |      |        |      |
-| SQL                     |      |        |      |
+| SQL                     |    * |85/175  |254777|
 | Databases               |      |        |      |
 | Distributed Systems     |      |        |      |
 | Security                |      |        |      |
@@ -34,6 +34,6 @@ You earn badges by solving challenges on the various practice tracks on [hackerr
 | Title                                    | Star | Points | Rank |
 |------------------------------------------|------|--------|------|
 | The HackerRank Interview Preparation Kit |      |        |      |
-| 30 Days of Code                          |      |        |      |
+| 30 Days of Code                          |   *  |        |      |
 | 10 Days of Statistics                    |      |        |      |
 | 10 Days of Javascript                    |      |        |      |
